@@ -1,0 +1,1 @@
+this is wordpress dir mounted for docker container
